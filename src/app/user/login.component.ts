@@ -5,7 +5,7 @@ import { Router } from '@angular/router';
 @Component({
     templateUrl: './login.component.html',
     styles: [`
-    em {color: red; float: right}
+    em {color: #e05c65; float: right}
     `]
 })
 
